@@ -1,0 +1,17 @@
+#navou{
+
+    display: flex;
+    justify-content: center;
+    color : #FFF;
+
+      
+      font-size:40px;
+      font-family: Brush Script MT, Brush Script Std, cursive	;
+      font-style: oblique;
+      font-weight: 200;
+
+
+}
+.nav-link{
+    color: white;
+}
